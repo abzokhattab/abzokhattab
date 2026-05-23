@@ -17,3 +17,4 @@ I care about clean architecture, offline-first design, and making complex workfl
 TypeScript · React · React Native · Node.js · GraphQL · Java · Spring Boot · Python · PostgreSQL · Docker · AWS · Kubernetes
 ```
 
+📫 abzokhattab@gmail.com
