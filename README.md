@@ -8,7 +8,7 @@ I care about clean architecture, offline-first design, and making complex workfl
 
 - Systems that handle real traffic under real constraints
 - Developer tooling and automation (LLM-powered refactoring, CI pipelines, code review bots)
-- React Native and the challenges of shipping one codebase across 5 platforms
+- React Native and the challenges of shipping one codebase across multiple platforms
 - Databases, message queues, and the glue between microservices
 
 ## Stack
